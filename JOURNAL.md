@@ -10,6 +10,10 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 0h | 0 |
+| Week 1 | Tier 1 | 3h | 1|
 
-_No entries logged yet._
+# October 6th: < first day of HackAClub>
+Today I struggled, I downloaded KiCad and got straight to work! I finished the Schimetic Editor file and this process took me about 3 h! this does not include the videos i watched and the millions of websites i opened. My favoirtie part were the keyboard shortcuts, w for wire q for x ect
+<img width="3264" height="2448" alt="image0" src="https://github.com/user-attachments/assets/9bdbc8b2-4c5e-4324-80b2-a5d974e5a81c" />
+
+*Total time spent: 3 h*
