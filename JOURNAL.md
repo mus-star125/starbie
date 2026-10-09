@@ -17,7 +17,7 @@
 1. [2026-10-06 – Today I struggled, I downloaded KiCad and got straight to work! I finished the Schimetic Editor file and this process took me about 3 h! this does not include the videos i watched and the millions of](#2026-10-06-today-i-struggled-i-downloaded-kicad-and-got-stra)
 2. [2026-10-06 – Today was day 2 for hack club, and it was wayy easier then yesterday. I finished up my schematic editor and actually started the PCB, I enjoyed graphing the star but it was quite difficult I also move](#2026-10-06-today-was-day-2-for-hack-club-and-it-was-wayy-eas)
 3. [2026-10-07 – today i wired, fixed the thousands of errors (started with 42) i had and added cute little stickers and photos on my pcb. safe to say I just need to add a few more details before im finally done. I sa](#2026-10-07-today-i-wired-fixed-the-thousands-of-errors-start)
-4. [2026-10-08 – Today was a lighter day, i mostly spent today designing my PCB since im done, and rechecking for errors I also learned how to use image converter which kinda confused me at first but im by some playin](#2026-10-08-today-was-a-lighter-day-i-mostly-spent-today-desi)
+4. [2026-10-08 – Today was a lighter day, i mostly spent today designing my PCB since im done (and did it wrong yesterday), and rechecking for errors I also learned how to use image converter which kinda confused me a](#2026-10-08-today-was-a-lighter-day-i-mostly-spent-today-desi)
 
 ## Design
 
@@ -61,11 +61,11 @@ today i wired, fixed the thousands of errors (started with 42) i had and added c
 
 ![image1 2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IdG2qW4mxNEmo4K3w415Yq4cp2iS3ZbW/a185cda28978616e737bb8ee80c666030063cc3c12b195004ab644d60cd8b8b4.jpg)
 
-### 2026-10-08 – Today was a lighter day, i mostly spent today designing my PCB since im done, and rechecking for errors I also learned how to use image converter which kinda confused me at first but im by some playin
+### 2026-10-08 – Today was a lighter day, i mostly spent today designing my PCB since im done (and did it wrong yesterday), and rechecking for errors I also learned how to use image converter which kinda confused me a
 
 **2h**
 
-Today was a lighter day, i mostly spent today designing my PCB since im done, and rechecking for errors I also learned how to use image converter which kinda confused me at first but im by some playing around i got the hang of it!
+Today was a lighter day, i mostly spent today designing my PCB since im done (and did it wrong yesterday), and rechecking for errors I also learned how to use image converter which kinda confused me at first but by some playing around i got the hang of it!
 Tonight im going to download arduine IDE, excited to start the firmware tomorrow!
 
 ![image0 9](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IdG2qW4mxNEmo4K3w415Yq4cp2iS3ZbW/dd65d240706d7f6c072892eae4ae0b631d141fa82e312c5e410e27e547ddc2bc.jpg)
