@@ -31,3 +31,26 @@ Schematic Edit:
 
 
 **Making the PCB: Not as challenging as the Schematic :D**
+I was really excited seeing my schematic becoming a model! It was kind of intimidating with the hundreds of tools in the PCB editor, but it ended up working out.
+
+I started by organising my parts like the guide, i then went on the edge cut layer to make the star outline, this was probably the easiest part out of the project :) then i connected the wires. I was kind of worried because i did not have the same wiring as the guide, but with some research i realised that it will work the same. Then I added funny text and cute pictures on the board (Like the cute balloon dog). In all, the PCB was a much more enjoyable process than the schematic, but it still took me some time to get it done.About 6.5 hours in total. I finally downloaded the Gerber files and uploaded them onto my github
+
+here is how it turned out: 
+
+<img width="2448" height="3264" alt="image1 (3)" src="https://github.com/user-attachments/assets/8898d5a9-e976-4f7f-a129-5b97acac3c9f" />
+
+**finally: The firmware**
+The firmware was the quickest and easiest process out of the whole project; i used the beginner guide and made my own character. Making my sorite was difficult since i could only use black and white but I'm really proud with how it turned out. I have some things in mind that i want to experiment with but am waiting for the hardware for that.
+
+This took me about 2 hours!
+
+Then it occured to me that i wasn't a big fan of my star shape so I had to go back into the PCB editor to fix it, which was tedious because i had to re-download and re-upload my gerber files onto github and JLCPCB
+
+Here is my Sprite:
+
+<img width="96" height="96" alt="sprite" src="https://github.com/user-attachments/assets/df3a0d3f-131d-41f3-ab54-c95529f38810" />
+
+
+Overall, this was a really enjoyable project and a good way to test my patience ;) It took me alot of time and my chromebook kept crashing out but I enjoyed it all and thank half-life for making this beginner friendly! I now have to figure out the funding and what to buy and how to make so I stay in the 30$
+
+**week 1: SUCCESS!**
