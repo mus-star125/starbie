@@ -17,7 +17,7 @@
 | [Push buttons](https://www.aliexpress.com/item/1005006046180384.html?mp=1) | for changing option on the starbie | 1 | $4.46 | $4.46 | [AliExpress](https://www.aliexpress.com/item/1005006046180384.html?mp=1) |
 | [PIn Header](https://www.aliexpress.com/item/1005007528068254.html?mp=1) | transmit data | 1 | $1.82 | $1.82 | [AliExpress](https://www.aliexpress.com/item/1005007528068254.html?mp=1) |
 | **Parts subtotal** | — | — | — | **$12.95** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$12.95** | — |
+| **Tax & shipping** | — | — | — | **$9.50** | — |
+| **Total** | — | — | — | **$22.45** | — |
 
-$17.05 left of the tier's funding.
+$7.55 left of the tier's funding.
