@@ -16,7 +16,7 @@
 | [OLED](https://www.aliexpress.com/item/1005013248598840.html?mp=1) | as the screen | 1 | $0.99 | $0.99 | [Aliexpress](https://www.aliexpress.com/item/1005013248598840.html?mp=1) |
 | [Push button](https://www.aliexpress.com/ssr/300001493/welcomegiftspmpc?spm=a2g0o.productlist.main.1.53e225d97lo1DJ&businessCode=ug&productIds=32815969627&pha_manifest=ssr&source_position=app_home_moretolove_wg&_immersiveMode=true&disableNav=YES&sourceName=SEARCH&skuId=64798820553&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32815969627%7C_p_origin_prod%3A&pvid=d9a912ca-f2ef-445a-bd7d-23695d8a3401) | to control | 1 | $2.79 | $2.79 | [Aliexpress](https://www.aliexpress.com/ssr/300001493/welcomegiftspmpc?spm=a2g0o.productlist.main.1.53e225d97lo1DJ&businessCode=ug&productIds=32815969627&pha_manifest=ssr&source_position=app_home_moretolove_wg&_immersiveMode=true&disableNav=YES&sourceName=SEARCH&skuId=64798820553&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32815969627%7C_p_origin_prod%3A&pvid=d9a912ca-f2ef-445a-bd7d-23695d8a3401) |
 | **Parts subtotal** | — | — | — | **$9.47** | — |
-| **Tax & shipping** | — | — | — | **$0.86** | — |
-| **Total** | — | — | — | **$10.33** | — |
+| **Tax & shipping** | — | — | — | **$7.44** | — |
+| **Total** | — | — | — | **$16.91** | — |
 
-$19.67 left of the tier's funding.
+$13.09 left of the tier's funding.
