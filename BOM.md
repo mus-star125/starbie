@@ -12,12 +12,11 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [PCB](https://cart.jlcpcb.com/shopcart/cart/) | holds electronic parts in place and connects them | 1 | $2.80 | $2.80 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart/) |
 | [OLED Display](https://www.aliexpress.com/item/1005013248598840.html?mp=1) | where the action is going to happen | 1 | $3.87 | $3.87 | [AliExpress](https://www.aliexpress.com/item/1005013248598840.html?mp=1) |
 | [Push buttons](https://www.aliexpress.com/item/1005006046180384.html?mp=1) | for changing option on the starbie | 1 | $4.46 | $4.46 | [AliExpress](https://www.aliexpress.com/item/1005006046180384.html?mp=1) |
 | [PIn Header](https://www.aliexpress.com/item/1005007528068254.html?mp=1) | transmit data | 1 | $1.82 | $1.82 | [AliExpress](https://www.aliexpress.com/item/1005007528068254.html?mp=1) |
-| **Parts subtotal** | — | — | — | **$12.95** | — |
+| **Parts subtotal** | — | — | — | **$10.15** | — |
 | **Tax & shipping** | — | — | — | **$9.50** | — |
-| **Total** | — | — | — | **$22.45** | — |
+| **Total** | — | — | — | **$19.65** | — |
 
-$7.55 left of the tier's funding.
+$10.35 left of the tier's funding.
