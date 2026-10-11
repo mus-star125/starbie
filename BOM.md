@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [PCB](https://cart.jlcpcb.com/shopcart/cart/?_t=1791648165731&_t=1791735471268&spm=Jlcpcb.Partcart&spm=cart.2001&up_spm=Jlcpcb.Loginpage.1003&up_spm=Jlcpcb.Loginpage.1003) | circuit board | 1 | $5.69 | $5.69 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart/?_t=1791648165731&_t=1791735471268&spm=Jlcpcb.Partcart&spm=cart.2001&up_spm=Jlcpcb.Loginpage.1003&up_spm=Jlcpcb.Loginpage.1003) |
 | **Parts subtotal** | — | — | — | **$5.69** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$5.69** | — |
+| **Tax & shipping** | — | — | — | **$0.86** | — |
+| **Total** | — | — | — | **$6.55** | — |
 
-$24.31 left of the tier's funding.
+$23.45 left of the tier's funding.
