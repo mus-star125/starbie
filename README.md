@@ -1,5 +1,6 @@
 ATTEMPT 2 # starbie
 
+<img width="668" height="385" alt="Screenshot 2026-10-20 8 56 36 PM" src="https://github.com/user-attachments/assets/cbd22c0e-ce17-4a0f-ae8b-ce1faf6a029a" />
 
 
 ## Devlogs
