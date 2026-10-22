@@ -36,7 +36,8 @@ ATTEMPT 2 # starbie
 * **Fixing the star shape:** Then it occured to me that i wasn't a big fan of my star shape so I had to go back into the PCB editor to fix it, which was tedious because i had to re-download and re-upload my gerber files onto github and JLCPCB. I finally downloaded the Gerber files and uploaded them onto my github.
 
 **Here is how the board turned out:**
- width="2448" height="3264" alt="image1 (3)" src="https://github.com/user-attachments/assets/8898d5a9-e976-4f7f-a129-5b97acac3c9f" />
+ <img width="2448" height="3264" alt="image1 (3)" src="https://github.com/user-attachments/assets/9ece72d0-c7f2-4e3b-8aa8-39b136ea499d" />
+
 
 
 ---
