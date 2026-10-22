@@ -1,6 +1,5 @@
 ATTEMPT 2 # starbie
 
-<img width="668" height="385" alt="Screenshot 2026-10-20 8 56 36 PM" src="https://github.com/user-attachments/assets/cbd22c0e-ce17-4a0f-ae8b-ce1faf6a029a" />
 
 
 ## Devlogs
@@ -54,5 +53,19 @@ ATTEMPT 2 # starbie
 
 ## Final Thoughts & Next Steps
 Overall, this was a really enjoyable project and a good way to test my patience ;) It took me alot of time and my chromebook kept crashing out but I enjoyed it all and thank half-life for making this beginner friendly! I now have to figure out the funding and what to buy and how to make so I stay in the $30 budget (sitting nicely at $28.37 right now!).
+
+## Bill of Materials (BOM)
+
+| Component | Description | Quantity | Unit Cost | Total Cost | Supplier |
+|---|---|---:|---:|---:|---|
+| PCB | Circuit board | 1 | $5.69 | $5.69 | JLCPCB |
+| OLED | Screen | 1 | $0.99 | $0.99 | AliExpress |
+| Push button | User control | 1 | $0.99 | $0.99 | AliExpress |
+| Headers | Connect the components | 1 | $1.32 | $1.32 | AliExpress |
+| XIAO ESP32-C3 | Main microcontroller | 1 | $8.04 | $8.04 | Alibaba |
+| RGB LED | Indicates whether the system is working | 1 | $3.90 | $3.90 | Alibaba |
+| **Parts subtotal** | — | — | — | **$20.93** | — |
+| Tax & shipping | — | — | — | $7.44 | — |
+| **Grand total** | — | — | — | **$28.37** | — |
 
 **week 1: SUCCESS!**
