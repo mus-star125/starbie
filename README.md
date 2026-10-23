@@ -1,6 +1,18 @@
 ATTEMPT 2 # starbie
+## Whats a starbie and why am I making it
 
+A starbie is a mix of a starboy and tamagotchi. you basically have an online pet that you can interact with it.It basically a little digital pet thats on a PCB instead of your phone!
+I'm making Starbie as part of Hack Club's Half Life program, where I get to learn how to design and build my own electronic project from scratch :))). the reason it was the starbie specifically was because it was the week one guide prject for total beginners (like me **DUHH**) I wanted to challenge myself and learn more about electronics, PCB design, and coding.
 
+## How does it work
+Starbie has a few main components that work together to bring it to life:
+
+the microcontroller (XIAO ESP32-C3): The brain of the project! It runs the code that controls how Starbie behaves.
+the OLED screen: This is where Starbie's face and expressions appear.
+the buttons: These let me interact with Starbie and, as I develop the firmware and give it different reactions.
+the RGB LED: This adds a little extra colour and personality to the board.
+
+All these components connect through a custom-designed PCB (printed circuit board), which I designed using KiCad. The firmware tells the microcontroller what to do, including displaying my cusom character on the screen.
 
 ## Devlogs
 
@@ -70,3 +82,5 @@ Overall, this was a really enjoyable project and a good way to test my patience 
 | **Grand total** | — | — | — | **$28.37** | — |
 
 **week 1: SUCCESS!**
+
+## More pic
