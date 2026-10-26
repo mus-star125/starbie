@@ -1,4 +1,4 @@
-ATTEMPT 5# starbie
+## STARBIE
 
 <img width="1083" height="637" alt="starbie" src="https://github.com/user-attachments/assets/3531317b-c431-4101-827d-98e61a3f1403" />
 
@@ -29,7 +29,30 @@ All these components connect through a custom-designed PCB (printed circuit boar
 -Custom star-shaped PCB: Designed in KiCad to bring all the components together. 
 
 -Custom firmware: Written for the XIAO ESP32-C3 microcontroller to control the display and device behaviour. 
+## software and tool
+-KiCad: Schematic capture and PCB design
 
+-Arduino IDE: Firmware development
+
+-C++: Programming the microcontroller
+
+-Pixel art: Designing the custom jellyfish sprite
+
+-GitHub: The beginners guide and "storage"
+
+## Design
+
+*PCB*
+
+The PCB has a custom star-shaped outline, with decorative details that give it a playful look while keeping the electronics together on one board.
+
+<img width="1083" height="637" alt="starbie" src="https://github.com/user-attachments/assets/3531317b-c431-4101-827d-98e61a3f1403" />
+
+*Starbies character*
+
+meet my custom jellyfish sprite! I designed it in black and white for the OLED display. I plan to experiment with additional expressions and reactions as I develop the firmware.
+
+<img width="96" height="96" alt="sprite" src="https://github.com/user-attachments/assets/df3a0d3f-131d-41f3-ab54-c95529f38810" />
 
 
 ## Final Thoughts & Next Steps
@@ -51,8 +74,5 @@ Overall, this was a really enjoyable project and a good way to test my patience 
 
 **week 1: SUCCESS!**
 
-## More pics:
-<img width="3264" height="2448" alt="image0 (4)" src="https://github.com/user-attachments/assets/c8b09220-3074-401e-b1e2-5c08c1a4aeca" />
-<img width="240" height="320" alt="image0 (5)" src="https://github.com/user-attachments/assets/208045ff-9c18-43db-9bc5-2678b6e02182" />
-<img width="244" height="320" alt="image1 (2)" src="https://github.com/user-attachments/assets/f466ecb8-eb9f-4c9c-9fbb-888fb0178902" />
-<img width="1083" height="637" alt="starbie" src="https://github.com/user-attachments/assets/3531317b-c431-4101-827d-98e61a3f1403" />
+## credits
+Built as part of Hack Club's Half Life program. The beginner guide and community helped me get started with my first electronics project.
