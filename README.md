@@ -18,12 +18,17 @@ the RGB LED: This adds a little extra colour and personality to the board.
 All these components connect through a custom-designed PCB (printed circuit board), which I designed using KiCad. The firmware tells the microcontroller what to do, including displaying my cusom character on the screen.
 
 ## features!
--Custom jellyfish sprite: A pixel-art character designed by me to give Starbie its own personality.
--OLED display: Shows the character on a small screen.
+-Custom jellyfish sprite: A pixel-art character designed by me to give Starbie its own personality
+. 
+-OLED display: Shows the character on a small screen. 
+
 -Button interaction: A physical button provides an input for interacting with Starbie. More reactions can be added as the firmware develops.
--RGB LED: Adds colour and a visual indicator to the board.
--Custom star-shaped PCB: Designed in KiCad to bring all the components together.
--Custom firmware: Written for the XIAO ESP32-C3 microcontroller to control the display and device behaviour.
+
+-RGB LED: Adds colour and a visual indicator to the board. 
+
+-Custom star-shaped PCB: Designed in KiCad to bring all the components together. 
+
+-Custom firmware: Written for the XIAO ESP32-C3 microcontroller to control the display and device behaviour. 
 
 
 
