@@ -1,4 +1,7 @@
-ATTEMPT 2 # starbie
+ATTEMPT 5# starbie
+
+<img width="1083" height="637" alt="starbie" src="https://github.com/user-attachments/assets/3531317b-c431-4101-827d-98e61a3f1403" />
+
 ## Whats a starbie and why am I making it
 
 A starbie is a mix of a starboy and tamagotchi. you basically have an online pet that you can interact with it.It basically a little digital pet thats on a PCB instead of your phone!
@@ -48,4 +51,3 @@ Overall, this was a really enjoyable project and a good way to test my patience 
 <img width="240" height="320" alt="image0 (5)" src="https://github.com/user-attachments/assets/208045ff-9c18-43db-9bc5-2678b6e02182" />
 <img width="244" height="320" alt="image1 (2)" src="https://github.com/user-attachments/assets/f466ecb8-eb9f-4c9c-9fbb-888fb0178902" />
 <img width="1083" height="637" alt="starbie" src="https://github.com/user-attachments/assets/3531317b-c431-4101-827d-98e61a3f1403" />
-
