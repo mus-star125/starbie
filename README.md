@@ -1,78 +1,89 @@
-## STARBIE
+# ⭐ Starbie
 
-<img width="1083" height="637" alt="starbie" src="https://github.com/user-attachments/assets/3531317b-c431-4101-827d-98e61a3f1403" />
+<img width="1083" height="637" alt="starbie" src="https://github.com/user-attachments/assets/eb8d4d73-d670-446e-b883-03b3cf70e64f" />
 
-## Whats a starbie and why am I making it
 
-A starbie is a mix of a starboy and tamagotchi. you basically have an online pet that you can interact with it.It basically a little digital pet thats on a PCB instead of your phone!
-I'm making Starbie as part of Hack Club's Half Life program, where I get to learn how to design and build my own electronic project from scratch :))). the reason it was the starbie specifically was because it was the week one guide prject for total beginners (like me **DUHH**) I wanted to challenge myself and learn more about electronics, PCB design, and coding.
+## What's a Starbie and why am I making it?
 
-## How does it work
+A Starbie is a mix of a starboy and a Tamagotchi. Basically, it's a little digital pet that you can interact with, but instead of living on your phone, it lives on a PCB!
+
+I'm making Starbie as part of Hack Club's Half Life program, where I get to learn how to design and build my own electronic project from scratch :)))
+
+I chose Starbie because it was the Week 1 guide project for total beginners (like me, **DUHH**). I wanted to challenge myself and learn more about electronics, PCB design, and coding.
+
+## How does it work?
+
 Starbie has a few main components that work together to bring it to life:
 
-the microcontroller (XIAO ESP32-C3): The brain of the project! It runs the code that controls how Starbie behaves.
-the OLED screen: This is where Starbie's face and expressions appear.
-the buttons: These let me interact with Starbie and, as I develop the firmware and give it different reactions.
-the RGB LED: This adds a little extra colour and personality to the board.
+- **Microcontroller (XIAO ESP32-C3):** The brain of the project! It runs the code that controls how Starbie behaves.
+- **OLED screen:** This is where Starbie's face and expressions appear.
+- **Buttons:** These let me interact with Starbie and trigger different actions.
+- **DHT11 sensor:** Measures temperature and humidity.
+- **MPU6050:** A motion sensor that measures movement and orientation.
 
-All these components connect through a custom-designed PCB (printed circuit board), which I designed using KiCad. The firmware tells the microcontroller what to do, including displaying my cusom character on the screen.
+All these components connect through a custom-designed PCB (printed circuit board), which I designed using KiCad. The firmware tells the microcontroller what to do, including displaying my custom character on the screen.
 
-## features!
--Custom jellyfish sprite: A pixel-art character designed by me to give Starbie its own personality
-. 
--OLED display: Shows the character on a small screen. 
+## Features!
 
--Button interaction: A physical button provides an input for interacting with Starbie. More reactions can be added as the firmware develops.
+- **Custom jellyfish sprite:** A pixel-art character designed by me to give Starbie its own personality.
+- **OLED display:** Shows Starbie's character and expressions.
+- **Button interaction:** Two physical buttons provide inputs for interacting with Starbie.
+- **Temperature and humidity sensing:** The DHT11 sensor collects environmental readings.
+- **Motion sensing:** The MPU6050 detects movement and orientation.
+- **Custom star-shaped PCB:** Designed in KiCad to bring the components together.
+- **Custom firmware:** Written for the XIAO ESP32-C3 microcontroller to control the display and device behaviour.
 
--RGB LED: Adds colour and a visual indicator to the board. 
+## Software and Tools
 
--Custom star-shaped PCB: Designed in KiCad to bring all the components together. 
-
--Custom firmware: Written for the XIAO ESP32-C3 microcontroller to control the display and device behaviour. 
-## software and tool
--KiCad: Schematic capture and PCB design
-
--Arduino IDE: Firmware development
-
--C++: Programming the microcontroller
-
--Pixel art: Designing the custom jellyfish sprite
-
--GitHub: The beginners guide and "storage"
+- **KiCad:** Schematic capture and PCB design.
+- **Arduino IDE:** Firmware development.
+- **C++:** Programming the microcontroller.
+- **Pixel art:** Designing the custom jellyfish sprite.
+- **GitHub:** Storing my project files and documentation.
 
 ## Design
 
-*PCB*
+### PCB
 
 The PCB has a custom star-shaped outline, with decorative details that give it a playful look while keeping the electronics together on one board.
 
-<img width="1083" height="637" alt="starbie" src="https://github.com/user-attachments/assets/3531317b-c431-4101-827d-98e61a3f1403" />
-
-*Starbies character*
-
-meet my custom jellyfish sprite! I designed it in black and white for the OLED display. I plan to experiment with additional expressions and reactions as I develop the firmware.
-
-<img width="96" height="96" alt="sprite" src="https://github.com/user-attachments/assets/df3a0d3f-131d-41f3-ab54-c95529f38810" />
+<img width="842" height="714" alt="Screenshot 2026-10-30 7 32 38 PM" src="https://github.com/user-attachments/assets/72b1eeb6-c04d-425a-9ac8-59254181625c" />
 
 
-## Final Thoughts & Next Steps
-Overall, this was a really enjoyable project and a good way to test my patience ;) It took me alot of time and my chromebook kept crashing out but I enjoyed it all and thank half-life for making this beginner friendly! I now have to figure out the funding and what to buy and how to make so I stay in the $30 budget (sitting nicely at $28.37 right now!).
+### Starbie's Character
+
+Meet my custom jellyfish sprite! I designed it in black and white for the OLED display. I plan to experiment with additional expressions and reactions as I develop the firmware.
+
+<img width="96" height="96" alt="sprite" src="https://github.com/user-attachments/assets/0cd8d144-78ae-4ee6-95cc-de5c08a886ad" />
+
 
 ## Bill of Materials (BOM)
 
-| Component | Description | Quantity | Unit Cost | Total Cost | Supplier |
-|---|---|---:|---:|---:|---|
-| PCB | Circuit board | 1 | $5.69 | $5.69 | JLCPCB |
-| OLED | Screen | 1 | $0.99 | $0.99 | AliExpress |
-| Push button | User control | 1 | $0.99 | $0.99 | AliExpress |
-| Headers | Connect the components | 1 | $1.32 | $1.32 | AliExpress |
-| XIAO ESP32-C3 | Main microcontroller | 1 | $8.04 | $8.04 | Alibaba |
-| RGB LED | Indicates whether the system is working | 1 | $3.90 | $3.90 | Alibaba |
-| **Parts subtotal** | — | — | — | **$20.93** | — |
-| Tax & shipping | — | — | — | $7.44 | — |
-| **Grand total** | — | — | — | **$28.37** | — |
+| Component | Description | Quantity |
+|---|---|---:|
+| Custom PCB | Circuit board | 1 |
+| XIAO ESP32-C3 | Main microcontroller | 1 |
+| OLED display | Displays Starbie's character | 1 |
+| DHT11 | Temperature and humidity sensor | 1 |
+| MPU6050 | Motion and orientation sensor | 1 |
+| Push buttons | User controls | 2 |
+| 10kΩ resistor | DHT11 pull-up resistor | 1 |
+| Headers and connectors | Connect the components | As needed |
 
-**week 1: SUCCESS!**
+*Prices and suppliers will be added once the final parts and orders are confirmed.*
 
-## credits
+## Final Thoughts & Next Steps
+
+Overall, this has been a really enjoyable project and a good way to test my patience ;) It took me A LOT of time, and my Chromebook kept crashing, but I enjoyed the process.
+
+I learned how to work with KiCad, design a PCB, understand electronic connections, and write firmware for a microcontroller. There were definitely moments when I wanted to give up and restart (and I actually did restart a few times lol), but I learned something new each time.
+
+Thank you to Hack Club and the Half Life community for making this beginner-friendly and giving me the opportunity to try something completely new!
+
+My next step is to get the components, assemble the PCB, and bring Starbie to life.
+
+**Week 1: SUCCESS! ⭐**
+
+## Credits
+
 Built as part of Hack Club's Half Life program. The beginner guide and community helped me get started with my first electronics project.
