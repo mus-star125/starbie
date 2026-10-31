@@ -1,8 +1,10 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-PCB,1,JLCPCB,$5.69,$5.69,https://cart.jlcpcb.com/shopcart/cart/?_t=1791648165731&_t=1791735471268&spm=Jlcpcb.Partcart&spm=cart.2001&up_spm=Jlcpcb.Loginpage.1003&up_spm=Jlcpcb.Loginpage.1003
-OLED,1,Aliexpress,$0.99,$0.99,https://www.aliexpress.com/item/1005013248598840.html?mp=1
-Push button,1,Aliexpress,$0.99,$0.99,https://www.aliexpress.com/ssr/300001493/welcomegiftspmpc?spm=a2g0o.productlist.main.1.53e225d97lo1DJ&businessCode=ug&productIds=32815969627&pha_manifest=ssr&source_position=app_home_moretolove_wg&_immersiveMode=true&disableNav=YES&sourceName=SEARCH&skuId=64798820553&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32815969627%7C_p_origin_prod%3A&pvid=d9a912ca-f2ef-445a-bd7d-23695d8a3401
-headers,1,Aliexpress,$1.32,$1.32,https://www.aliexpress.com/ssr/300001493/welcomegiftspmpc?spm=a2g0o.productlist.main.3.3478552fwPtoa4&businessCode=ug&productIds=4000873858801&pha_manifest=ssr&source_position=app_home_moretolove_wg&_immersiveMode=true&disableNav=YES&sourceName=SEARCH&skuId=10000010058190554&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000873858801%7C_p_origin_prod%3A&pvid=22d44030-c6db-452d-8084-5835a14ca102
-Xiao,1,AliBaba,$8.04,$8.04,https://www.alibaba.com/product-detail/Original-New-Seeed-Studio-XIAO-ESP32C3_1601944812137.html?spm=a2700.prosearch.normal_offer.d_image.295567afm9jHng&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=b4f91e729496499e834f4513b33e2fc5
-RGB LED,1,AliBABA,$3.90,$3.90,https://www.alibaba.com/product-detail/Highlight-OEM-WS2812B-Plug-in-Light_1601628779098.html?spm=a2700.galleryofferlist.normal_offer.d_image.616913a0IwIrEY&priceId=796918f09e084287b13ec50afc3bfeaa
+XIAO ESP32-C3,1,,$0.00,$0.00,
+0.96 inch I2C OLED display connector,1,,$0.00,$0.00,
+8-pin header,1,,$0.00,$0.00,
+DHT11 temperature and humidity sensor,1,,$0.00,$0.00,
+Push button,1,,$0.00,$0.00,
+Push button,1,,$0.00,$0.00,
+10k resistor,1,,$0.00,$0.00,
+MPU6050 accelerometer,1,,$0.00,$0.00,
 Estimated total shipping,1,,,$7.44,
