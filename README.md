@@ -68,6 +68,7 @@ Meet my custom jellyfish sprite! I designed it in black and white for the OLED d
 | MPU6050 | Motion and orientation sensor | 1 |
 | Push buttons | User controls | 2 |
 | 10kΩ resistor | DHT11 pull-up resistor | 1 |
+|U3,MPU6050 accelerometer |1| Measures movement and orientation|
 | Headers and connectors | Connect the components | As needed |
 
 *Prices and suppliers will be added once the final parts and orders are confirmed.*
