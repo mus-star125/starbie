@@ -7,4 +7,4 @@ U2,DHT11 temperature and humidity sensor,1,Measures temperature and humidity
 SW1,Push button,1,User input
 SW2,Push button,1,User input
 R1,10k resistor,1,Resistor in the button circuit
-U3,MPU6050 accelerometer and gyroscope module,1,Measures movement and orientation
+U3,MPU6050 accelerometer ,1,Measures movement and orientation
