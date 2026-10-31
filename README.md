@@ -59,19 +59,18 @@ Meet my custom jellyfish sprite! I designed it in black and white for the OLED d
 
 ## Bill of Materials (BOM)
 
-| Component | Description | Quantity |
-|---|---|---:|
-| Custom PCB | Circuit board | 1 |
-| XIAO ESP32-C3 | Main microcontroller | 1 |
-| OLED display | Displays Starbie's character | 1 |
-| DHT11 | Temperature and humidity sensor | 1 |
-| MPU6050 | Motion and orientation sensor | 1 |
-| Push buttons | User controls | 2 |
-| 10kΩ resistor | DHT11 pull-up resistor | 1 |
-|U3,MPU6050 accelerometer |1| Measures movement and orientation|
-| Headers and connectors | Connect the components | As needed |
+| Part | Qty | Unit Price | Total | Vendor |
+|---|---:|---:|---:|---|
+| XIAO ESP32-C3 (Main microcontroller) | 1 | $11.61 | $11.61 | [AliExpress](https://www.aliexpress.com/item/1005007378847580.html?mp=1) |
+| 0.96-inch I2C OLED Display | 1 | $1.22 | $1.22 | [AliExpress](https://www.aliexpress.com/w/wholesale-0.96-inch-I2C-OLED-display-connector.html) |
+| 8-pin Header | 1 | $1.22 | $1.22 | [AliExpress](https://www.aliexpress.com/item/1005012063141186.html) |
+| DHT11 Temperature and Humidity Sensor | 1 | $1.22 | $1.22 | [AliExpress](https://www.aliexpress.com/item/1005008953430940.html) |
+| Push Button | 1 | $1.22 | $1.22 | [AliExpress](https://www.aliexpress.com/item/1005012448645805.html) |
+| 10kΩ Resistor | 1 | $1.22 | $1.22 | [AliExpress](https://www.aliexpress.com/item/1005007539842999.html) |
+| MPU6050 Accelerometer and Gyroscope | 1 | $1.22 | $1.22 | [AliExpress](https://www.aliexpress.com/item/1005011826877217.html) |
+| Custom PCB | 1 | $11.61 | $11.61 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart/) |
+| **Total** | | | **$26.33** | |
 
-*Prices and suppliers will be added once the final parts and orders are confirmed.*
 
 ## Final Thoughts & Next Steps
 
