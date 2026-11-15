@@ -1,6 +1,7 @@
 # ⭐ Starbie
 
-<img width="1083" height="637" alt="starbie" src="https://github.com/user-attachments/assets/eb8d4d73-d670-446e-b883-03b3cf70e64f" />
+<img width="542" height="587" alt="Screenshot 2026-11-14 11 48 01 PM" src="https://github.com/user-attachments/assets/ba2467c1-9b27-4f38-9d9e-91b6470af17b" />
+
 
 
 ## What's a Starbie and why am I making it?
@@ -47,7 +48,8 @@ All these components connect through a custom-designed PCB (printed circuit boar
 
 The PCB has a custom star-shaped outline, with decorative details that give it a playful look while keeping the electronics together on one board.
 
-<img width="842" height="714" alt="Screenshot 2026-10-30 7 32 38 PM" src="https://github.com/user-attachments/assets/72b1eeb6-c04d-425a-9ac8-59254181625c" />
+<img width="542" height="587" alt="Screenshot 2026-11-14 11 48 01 PM" src="https://github.com/user-attachments/assets/2a7db799-999f-4fdc-9d20-6c2dcdedd2d6" />
+
 
 
 ### Starbie's Character
